@@ -1,5 +1,10 @@
 ![NEWTON BANNER](/docs/images/newton.png)
 
+# About
+<p align="justify">
+  This data has been collected by <em>Javier Mateos</em> and <em>Gianluca Cornetta</em> within <b>NEWTON</b> project. <b>NEWTON</b> is a large scale Integrated Action, started in March 2016 and scheduled to end in summer 2019, funded by the European Commission under the Horizon 2020 Researh and Innovation Programme with grant agreement n. 688503.
+</p>
+
 # Fab Lab Modules: Experimental Data
 <p align="justify">
 This repo contains the experimental data of the NEWTON Fab Lab Platform.
