@@ -14,5 +14,16 @@ This repo contains the experimental data of the NEWTON Fab Lab Platform.
 |
 |
 |__ locust   __
-               |
+|              |
+|              |___ 50  (Load test results with 50 concurrent users)
+|              |
+|              |___ 100 (Load test results with 100 concurrent users)
+|              |
+|              |___ 150 (Load test results with 150 concurrent users)
+|
+|
+|__ ab       ______ (Apache Benchmark measurements)
+|
+|
+|__ iperf3   ______ (iperf3 measuremnts)
 ```
