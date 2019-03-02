@@ -13,6 +13,6 @@ This repo contains the experimental data of the NEWTON Fab Lab Platform.
 |              |____ 50 (Simulation results with 50 threads concurrency level)
 |
 |
-|__ locust ____
+|__ locust   __
                |
 ```
