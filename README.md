@@ -33,7 +33,7 @@ This repo contains the experimental data of the NEWTON Fab Lab Platform.
 |__ iperf3   ______ (iperf3 measuremnts)
 ```
 
-# Some remarks on Apache Benchmark measuremnts
+# Some remarks on Apache Benchmark measurements
 <p align="justify">
 For each measurement scenario, Apache benchmark reports many Document length errors. This indeed is not an error but simply a mismatch in the response length probably due to some server misconfiguration that does not affect the correct operation of the NEWTON Fab Lab infrastructure.  Analyzing more in detail the measurement report, we also observe that, in all the measuremnts we performed, Apache benchmark also reports a large number of non-2xx responses. Interestingly, the number of non-2xx responses is approximately equal to the number of Document length errors. In order to investigate the causes of this anomalous behaviour, we run a fast analysis with the following flags:
 </p>
